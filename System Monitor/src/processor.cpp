@@ -3,7 +3,7 @@
 
 using std::stof;
 
-// TODO: Return the aggregate CPU utilization
+// DONE: Return the aggregate CPU utilization
 float Processor::Utilization() {
  
   std::vector<std::string> cpu = LinuxParser::CpuUtilization();
