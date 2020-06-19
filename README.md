@@ -6,7 +6,7 @@ Udacity C++ Nanodegree Program: **Projects**.
 * Implemented an A* grid-based search algorithm. 
     * The searching behavior a *BFS like algorithm* to visit priority of neighbor nodes w/ higher ```int f``` value, which is a dynamic value relate to its current node during the search process, that equals to the sum of ```int h (Heuristic)``` and ```int g``` value, i.e., ```f(n) = g(n) + h(n)```.
     * A set of tests is provided by Udacity and have been passed using such implementation.`
-* In this project, an A* algorithm is utilized to implement a path planning algorithm
+* In this project, the A* algorithm is utilized to implement a path planning algorithm
     * it is within the *OpenStreetMap* frame
     * it searches a path from givin *start* and *end* position
 
