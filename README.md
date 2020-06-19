@@ -1,5 +1,5 @@
 # UdacityCPP
-Course materials of Udacity C++ Nanodegree Program: **Knowledge** and **Projects**.
+Udacity C++ Nanodegree Program: **Projects**.
 
 ## A* Search Algorithm
 * Contained in the folder `A_star`
