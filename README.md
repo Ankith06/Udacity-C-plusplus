@@ -27,12 +27,3 @@ Course metrials of Udacity C++ Nanodegree Program: **Knowledge** and **Projects*
     * it implements similar functionalities as `htop`
     * the basic idea is to read and parse system file contents in `/proc`
     * (TODO) refine the UI by utilizing Ncurses package
-
-## Introduction to Memory Management
-* Contained in the folder `Intro_to_Memory_Mgmt`
-* Thie materials/topics include a series of introduction, examples and exercise scripts about OOP in C++:
-    * **Abstraction**: class declaration/definition, access modifiers.
-    * **Inheritance**: basics, multiple inheritance, multi-level inheritance, friend class.
-    * **Polymorphism**: overload operator/function, virtual functions.
-    * **Generic Programming**: class/function template, deduction and multiple generic types.
-    * others / etc.
