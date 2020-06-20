@@ -11,7 +11,7 @@ Udacity C++ Nanodegree Program: **Projects**.
     * It searches a path from givin *start* and *end* position
 
 ## Introduction to Object-Oriented-Pogramming (OOP)
-* This materials/topics include a series of introduction, examples and exercise scripts about OOP in C++:
+* This topic includes a series of introduction, examples and exercise scripts about OOP in C++:
     * **Abstraction**: class declaration/definition, access modifiers.
     * **Inheritance**: basics, multiple inheritance, multi-level inheritance, friend class.
     * **Polymorphism**: overload operator/function, virtual functions.
